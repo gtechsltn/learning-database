@@ -90,3 +90,36 @@ AWS PostgreSQL Databases
 + Không chấp nhận con đường này?
 + Làm trâu mà vẫn không ra nhiều tiền?
 + Làm trâu mà ra nhiều tiền?
+
+## Cần sản phẩm (có thể chính là developer)
++ Chức năng gì?
+
+## Cần người bỏ tiền ra mua sản phẩm (có thể chính là công ty)
++ Trả bằng tiền? Trả bao nhiêu tiền?
+
+## Tại sao lương thấp?
++ Giá trị, cung cầu?
+
+## 1. Tư duy ngược
+
++ Số khách hàng nhiều hơn -> tư duy
++ Khách hàng sẵn sàng trả nhiều tiền hơn -> tư duy
+
+Tư duy ngược hay còn được gọi là Reverse Thinking là một phương pháp giúp bạn nhìn nhận vấn đề từ góc độ đối lập. Thay vì tiếp cận vấn đề theo cách truyền thống, bạn có thể đảo ngược mọi giả định để tìm ra những giải pháp sáng tạo và đột phá.
+
+Tư duy phản biện (Critical Thinking) là quá trình tư duy phân tích đưa ra những đánh giá hợp lý, lập luận logic và được cân nhắc kỹ lưỡng thông qua khả năng đặt những câu hỏi như tại sao, làm thế nào, bằng cách gì, như thế nào,... về những gì được đọc, nghe, nói hoặc viết.
+
+Tư duy phản biện được xây dựng dựa trên những lý tưởng trí tuệ phổ quát, bao gồm: sự rõ ràng, đúng đắn, chính xác, nhất quán, phù hợp, bằng chứng vững chắc, lập luận xuất sắc, sâu sắc và công bằng. Điều này đòi hỏi phải xem xét lại những yếu tố tư duy tiềm ẩn trong mọi lập luận: vấn đề, mục đích, giả định, hậu quả và ý nghĩa, hệ quy chiếu,...
+
+Tư duy phản biện rất hữu ích trong nhiều tình huống, bao gồm đánh giá thông tin trên phương tiện truyền thông, tham gia vào cuộc thảo luận và tranh luận xây dựng, đưa ra quyết định thông minh dựa trên thông tin có sẵn và cải thiện khả năng giải quyết vấn đề.
+
+## 2. Tư duy phản biện
+
+Tư duy phản biện (Critical thinking) được định nghĩa là khả năng suy nghĩ và phân tích, là quá trình tư duy nhằm chất vấn các giả định và giả thiết được đưa ra. Từ đó, bộ não mới hình thành các phản ứng cần thiết, trả lời cho vấn đề đó. Nói cách khác, rèn tư duy phản biện chính là cách bạn luyện tập cách suy nghĩ khi phải đối mặt với một vấn đề nào đó.
+
+https://teky.edu.vn/blog/ren-luyen-tu-duy-phan-bien/
+
+## 3. Liên tục tạo ra giá trị cho khách hàng
+
++ Một khách hàng sẽ giới thiệu khách hàng mới cho mình
++ Kết quả đến tự nhiên, không cần chèo kéo khách hàng
