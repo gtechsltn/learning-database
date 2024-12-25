@@ -80,3 +80,13 @@ AWS PostgreSQL Databases
 + Sai lầm số 1: Làm theo mặc định. ~ Xây dưng sự nghiệp theo chiến lược mặc định.
 + Sai lầm số 2: Nỗi sợ 10 năm. ~ Không dám nghĩ mình có thể kiếm tiền từ nhiều nguồn nếu chỉ có 2 năm kinh nghiệm. Kiếm tiền bằng chính **kiến thức**, **kinh nghiệm**, **năng lực** (làm tài liệu, làm báo cáo, hướng dẫn lập trình, làm bài tập lớn, làm đồ án tốt nghiệp cho sinh viên mỗi người 1 triệu).
 + Sai lầm số 3: Sản phẩm này thì thu nhập sẽ thấp.
+
+# Trần Quốc Huy - Wecommit
+
+![image](https://github.com/user-attachments/assets/6ecc4606-ae9a-40ce-9432-54a3e09365cc)
+
++ Không cần cứ phải lập công ty mới có nhiều khách hàng
++ Làm thế nào để có nhiều tiền?
++ Không chấp nhận con đường này?
++ Làm trâu mà vẫn không ra nhiều tiền?
++ Làm trâu mà ra nhiều tiền?
