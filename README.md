@@ -120,6 +120,13 @@ Tư duy phản biện (Critical thinking) được định nghĩa là khả năn
 https://teky.edu.vn/blog/ren-luyen-tu-duy-phan-bien/
 
 ## 3. Liên tục tạo ra giá trị cho khách hàng
-
++ Chiếm lòng tin, chứ không phải lương ...
 + Một khách hàng sẽ giới thiệu khách hàng mới cho mình
 + Kết quả đến tự nhiên, không cần chèo kéo khách hàng
+
+## 4. Mở rộng thị trường bằng sản phẩm khác biệt
++ Ngân hàng
++ Chứng khoán
++ Truyền thông
++ Điện lực
++ Bệnh viện
