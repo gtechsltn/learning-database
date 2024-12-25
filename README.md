@@ -124,9 +124,21 @@ https://teky.edu.vn/blog/ren-luyen-tu-duy-phan-bien/
 + Một khách hàng sẽ giới thiệu khách hàng mới cho mình
 + Kết quả đến tự nhiên, không cần chèo kéo khách hàng
 
-## 4. Mở rộng thị trường bằng sản phẩm khác biệt
+## 4. Kế hoạch Bí Ngô
++ Người nông dân trồng cây: trồng quả bí ngô khổng lồ, không thể trồng chi chít các cây, không phải làm nhiều hơn, làm phép trừ: loại bớt (Khách hàng không đem lại lợi nhuận cao, Khách hàng khiến mình hạnh phúc)
++ Cách kiếm tiền hạnh phúc: Chia sẽ những người cùng quan điểm, thấy họ tiến bộ, mình trở nên hạnh phúc
++ Trao giá trị liên tục cho người bạn cùng chí hướng, cùng quan điểm (Vector database)
++ Làm ít hơn, vẫn nhiều tiền và hạnh phúc!
++ Chăm chỉ nhưng phải có chí hướng riêng
+
+## 5. Mở rộng thị trường bằng sản phẩm khác biệt
 + Ngân hàng
 + Chứng khoán
++ Công ty công nghệ
 + Truyền thông
 + Điện lực
 + Bệnh viện
++ Nông nghiệp
++ Trí tuệ nhân tạo
+
+![image](https://github.com/user-attachments/assets/94672f89-ba5f-4528-bae2-a81db53f82c1)
