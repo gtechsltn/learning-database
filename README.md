@@ -65,6 +65,6 @@ AWS PostgreSQL Databases
 + Bước n: Cạnh tranh quá khốc liệt để đạt $3000 (lương trên 100 triệu)
 
 ### Cách làm thông minh
-+ Tiền nhiều ở đâu? Ở ngân hàng (Bank)
-+ OceanBank
-+ MB Bank
++ Tiền nhiều ở đâu? Ở ngân hàng (BANK)
++ OceanBank - Ngân hàng Đại Dương
++ MSB - Ngân hàng TMCP Hàng Hải Việt Nam
