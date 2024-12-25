@@ -74,3 +74,8 @@ AWS PostgreSQL Databases
 + Tiền tạo ra từ **nhiều nơi**, **nhiều công ty**
 + Tiền tạo ra từ **cá nhân**
 + Làm thế nào để X2, X3 thu nhập hàng tháng, hàng năm?
++ Không chỉ có khóa học online: Dạy offline, ...
+
+# Sai lầm thường gặp
++ Sai lầm số 1: Làm theo mặc định (không dám nghĩ mình có thể kiếm tiền từ nhiều nguồn nếu chỉ có 2 năm kinh nghiệm)
++ Sai lầm số 2: Kiếm tiền bằng chính năng lực 
