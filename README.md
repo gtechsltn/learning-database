@@ -61,10 +61,16 @@ AWS PostgreSQL Databases
 + Bước 1: Tạo CV
 + Bước 2: Nhảy, nhảy, nhảy...
 + Bước 3: Công ty to hơn
-+ Khi có 1000 người làm như vậy? Đứng lại suy nghĩ ???
++ Khi có 1000 người làm như vậy? Phải đứng lại suy nghĩ ?
 + Bước n: Cạnh tranh quá khốc liệt để đạt $3000 (lương trên 100 triệu)
 
 ### Cách làm thông minh
 + Tiền nhiều ở đâu? Ở ngân hàng (BANK)
 + OceanBank - Ngân hàng Đại Dương
 + MSB - Ngân hàng TMCP Hàng Hải Việt Nam
++ Làm giống 1000 người -> kết quả thu nhập trung bình
++ Tổng thu nhập -> trung bình
++ Tiền tạo ra từ **một nơi**, **một công ty**
++ Tiền tạo ra từ **nhiều nơi**, **nhiều công ty**
++ Tiền tạo ra từ **cá nhân**
++ Làm thế nào để X2, X3 thu nhập hàng tháng, hàng năm?
