@@ -24,8 +24,19 @@ Với chat GPT, người dùng có thể trò chuyện với một trí tuệ nh
 ## PostgreSQL
 + https://www.youtube.com/watch?v=OUlLQK_gN8k
 
+AWS PostgreSQL Databases
+
 ## SQL Server
 + https://www.youtube.com/watch?v=alqEF4I23nw
+
+## Oracle
++ https://www.youtube.com/watch?v=-5oiSmfVa68
+
+## Khác biệt chính ORACLE và SQL SERVER
++ https://www.youtube.com/watch?v=TvLWozM182E&t=105s
+
+## Tối ưu câu query
++ https://www.youtube.com/watch?v=T1Qa7_PM91k
 
 ## Tối ưu cơ sở dữ liệu
 + https://www.youtube.com/watch?v=xC1662uBym8
@@ -36,3 +47,24 @@ Với chat GPT, người dùng có thể trò chuyện với một trí tuệ nh
 
 ## Cài đặt và cấu hình IIS trên Windows Server 2019/2022
 + https://www.youtube.com/watch?v=zaUvG7ELkpw
+
+## Cách kỹ sư CNTT bình thường đạt $10K mỗi tháng
++ https://www.youtube.com/watch?v=oGt_pK_0Gy8
+
++ Điều quan trọng nhất là gì?
++ Chuyên môn giỏi hơn để làm gì?
++ Nhiều kinh nghiệm để làm gì?
+
+=> Điều quan trọng nhất là phải kiếm được tiền
+
+### Cách làm thông thường (1000K)
++ Bước 1: Tạo CV
++ Bước 2: Nhảy, nhảy, nhảy...
++ Bước 3: Công ty to hơn
++ Khi có 1000 người làm như vậy? Đứng lại suy nghĩ ???
++ Bước n: Cạnh tranh quá khốc liệt để đạt $3000 (lương trên 100 triệu)
+
+### Cách làm thông minh
++ Tiền nhiều ở đâu? Ở ngân hàng (Bank)
++ OceanBank
++ MB Bank
