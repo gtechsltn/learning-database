@@ -78,4 +78,4 @@ AWS PostgreSQL Databases
 
 # Sai lầm thường gặp
 + Sai lầm số 1: Làm theo mặc định (không dám nghĩ mình có thể kiếm tiền từ nhiều nguồn nếu chỉ có 2 năm kinh nghiệm)
-+ Sai lầm số 2: Kiếm tiền bằng chính năng lực 
++ Sai lầm số 2: Kiếm tiền bằng chính năng lực (làm tài liệu, làm bài tập lớn, làm đồ án tốt nghiệp cho sinh viên mỗi người 1 triệu)
